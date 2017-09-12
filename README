@@ -1,0 +1,5 @@
+This project is a web based application which is developed using the
+frameworks like Spring MVC and Hibernate.
+In this project the user can log into the system and can apply for the leaving
+by filling leave application form.
+In this project the application will be checked by the higher authorities.
